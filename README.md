@@ -6,12 +6,7 @@
 <!-- <a href="https://solved.ac/choi_hj94">  <img align='left' src="http://mazassumnida.wtf/api/generate_badge?boj=choi_hj94" height="150"> </a> -->
 
 <!-- ![hyeonjini's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjini&show_icons=true) -->
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=hyeonjini&show_icons=true" height="100">
-
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=hyeonjini&show_icons=true" height="150">
 
 ## SKILLS
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
