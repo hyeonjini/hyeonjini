@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:choihj94@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/velog-20C997?style=flat&logoColor=white)](https://velog.io/@choihj94)
 ![choi_hj94](http://mazassumnida.wtf/api/mini/generate_badge?boj=choi_hj94)
-
+![Boostcamp Badge](https://img.shields.io/badge/NaverBoostcamp_AI_Tech-03C75A?style=flat&logoColor=white)
 <!-- <a href="https://solved.ac/choi_hj94">  <img align='left' src="http://mazassumnida.wtf/api/generate_badge?boj=choi_hj94" height="150"> </a> -->
 
 <!-- ![hyeonjini's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjini&show_icons=true) -->
@@ -17,7 +17,9 @@
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
 
 
+
 ## EXPERIENCE
+
 ![Node.js_Badge](https://img.shields.io/badge/Node.js-2496ED?style=flat&logo=Node.js&logoColor=white)
 ![Springboot Badge](https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=Springboot&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
@@ -39,4 +41,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Kumoh_Badge](https://img.shields.io/badge/Kumoh_National_University-0C2451?style=flat&logoColor=white)
 -->
