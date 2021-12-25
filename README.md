@@ -1,12 +1,12 @@
 ## ML Engineer, MLOps 👋
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:choihj94@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/velog-20C997?style=flat&logoColor=white)](https://velog.io/@choihj94)
-<!-- ![choi_hj94](http://mazassumnida.wtf/api/mini/generate_badge?boj=choi_hj94) -->
+![choi_hj94](http://mazassumnida.wtf/api/mini/generate_badge?boj=choi_hj94)
 
-<a href="https://solved.ac/choi_hj94">  <img align='left' src="http://mazassumnida.wtf/api/generate_badge?boj=choi_hj94" height="150"> </a>
+<!-- <a href="https://solved.ac/choi_hj94">  <img align='left' src="http://mazassumnida.wtf/api/generate_badge?boj=choi_hj94" height="150"> </a> -->
 
 <!-- ![hyeonjini's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjini&show_icons=true) -->
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=hyeonjini&show_icons=true" height="150">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=hyeonjini&show_icons=true" height="100">
 
 <br><br>
 <br><br>
