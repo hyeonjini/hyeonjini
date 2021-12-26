@@ -1,7 +1,7 @@
 ## ML Engineer, MLOps 👋
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:choihj94@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/velog-20C997?style=flat&logoColor=white)](https://velog.io/@choihj94)
-![choi_hj94](http://mazassumnida.wtf/api/mini/generate_badge?boj=choi_hj94)
+[![choi_hj94](http://mazassumnida.wtf/api/mini/generate_badge?boj=choi_hj94)](https://solved.ac/choi_hj94)
 ![Boostcamp Badge](https://img.shields.io/badge/NaverBoostcamp_AI_Tech-03C75A?style=flat&logoColor=white)
 <!-- <a href="https://solved.ac/choi_hj94">  <img align='left' src="http://mazassumnida.wtf/api/generate_badge?boj=choi_hj94" height="150"> </a> -->
 
