@@ -8,6 +8,8 @@
 <!-- ![hyeonjini's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjini&show_icons=true) -->
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=hyeonjini&show_icons=true" height="150">
 
+- I'm Machine Learning Engineer
+- I'm currently learning MLOps, Machine Learning System Design Pattern
 ## SKILLS
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
