@@ -12,7 +12,7 @@
 - ⚡ I'm currently learning ...
     - MLOps
     - Machine Learning Design Pattern
-    - Apache ecosystem (Hadoop, Spark, kafka)
+    - Apache Ecosystem (Hadoop, Spark, kafka)
     
 ## SKILLS
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
